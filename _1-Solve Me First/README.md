@@ -21,7 +21,7 @@ Complete the solveMeFirst function with the following parameters:
 
 ## Constraints
 
-$$1 \le a, b \le 1000$$
+$1 \le a, b \le 1000$
 
 ## Sample Input
 
