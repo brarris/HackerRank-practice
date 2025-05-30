@@ -31,9 +31,26 @@ The second line contains $n$ space-separated integers representing the array's e
 
 ## Constraints
 
-- $0 < n \le 1000$
-- $0 < ar[i] \le 1000$ where $0 \le i < n$
+- $0 < n, ar[i] \le 1000$
 
 ---
 
 ## Sample Input
+
+```
+STDIN                    Function
+-----                    --------
+6                        ar[] size n = 6
+1 2 3 4 10 11            ar = [1, 2, 3, 4, 10, 11]
+```
+
+## Sample Output
+
+```
+31
+```
+
+## Explanation
+
+Print the sum of the array's elements:
+1 + 2 + 3 + 4 + 10 + 11 = 31
